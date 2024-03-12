@@ -6,7 +6,7 @@
 
 ## Description
 
-This project contains all the code used to write the report of the Homework assigment. The simulation are conducted in `C` code, while all the post processing task are done with `Python`.  
+This project contains all the code used to write the report of the Homework assigment. The simulation are conducted in `C` code, while all the post processing tasks are done with `Python`.  
 
 ## Directory Structure
 
