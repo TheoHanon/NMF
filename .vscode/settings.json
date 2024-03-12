@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "thomas.h": "c",
+        "scheme.h": "c",
+        "utils.h": "c",
+        "__hash_table": "c",
+        "array": "c",
+        "charconv": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "variant": "c",
+        "finite_difference_scheme.h": "c",
+        "struct.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "fd_scheme.h": "c"
+    }
+}
