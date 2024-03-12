@@ -6,7 +6,7 @@
 
 ## Description
 
-This project contains all the code used to write the report of the Homework assigment. The simulation are conducted in `C` code, while all the post processing task are done with `Python`.  
+This project contains all the code used to write the report of the Homework assigment. The simulation are conducted in `C` code, while all the post processing tasks are done with `Python`.  
 
 ## Directory Structure
 
@@ -79,14 +79,4 @@ make help
 
 This will display information about how to run simulations with different parameters and options available.
 
-## Contributing
-
-(Provide information on how others can contribute to the project, if applicable.)
-
-## License
-
-(Include licensing information here, if applicable.)
-
 ---
-
-This README provides a comprehensive guide for users and contributors to understand how to compile, run, and process data from your simulations. Adjust as necessary to fit the specifics of your project.
